@@ -1,0 +1,5 @@
+Note:
+-- To refer a url internally in flask app then use url_for lib.
+-- Render_template is used to render a particulat html at a specific url.
+-- Requests lib in flask app used for working with http requests and more.
+-- jinja2 engine a web template system used to put data in web template from backend.
